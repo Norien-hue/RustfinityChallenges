@@ -1,0 +1,1 @@
+/home/norien/Documentos/Profesional/Code/rustfinity/printing-hello-world/target/debug/printing-hello-world: /home/norien/Documentos/Profesional/Code/rustfinity/printing-hello-world/src/lib.rs /home/norien/Documentos/Profesional/Code/rustfinity/printing-hello-world/src/main.rs
