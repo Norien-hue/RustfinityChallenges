@@ -1,0 +1,1 @@
+/home/norien/Documentos/Profesional/Code/rustfinity/declaring-variables/target/debug/declaring-variables: /home/norien/Documentos/Profesional/Code/rustfinity/declaring-variables/src/lib.rs /home/norien/Documentos/Profesional/Code/rustfinity/declaring-variables/src/main.rs
