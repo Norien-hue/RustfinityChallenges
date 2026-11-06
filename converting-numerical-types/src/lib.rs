@@ -1,0 +1,5 @@
+pub fn numerical_type_conversion(n: i32) -> u32 {
+    // Implement here
+    return n as u32;
+    // CODE: unimplemented!()
+}
